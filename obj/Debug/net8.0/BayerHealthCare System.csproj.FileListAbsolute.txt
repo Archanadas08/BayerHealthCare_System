@@ -1,0 +1,41 @@
+C:\Hackathon\BayerHealthCare System\bin\Debug\net8.0\appsettings.Development.json
+C:\Hackathon\BayerHealthCare System\bin\Debug\net8.0\appsettings.json
+C:\Hackathon\BayerHealthCare System\bin\Debug\net8.0\BayerHealthCare System.staticwebassets.endpoints.json
+C:\Hackathon\BayerHealthCare System\bin\Debug\net8.0\BayerHealthCare System.exe
+C:\Hackathon\BayerHealthCare System\bin\Debug\net8.0\BayerHealthCare System.deps.json
+C:\Hackathon\BayerHealthCare System\bin\Debug\net8.0\BayerHealthCare System.runtimeconfig.json
+C:\Hackathon\BayerHealthCare System\bin\Debug\net8.0\BayerHealthCare System.dll
+C:\Hackathon\BayerHealthCare System\bin\Debug\net8.0\BayerHealthCare System.pdb
+C:\Hackathon\BayerHealthCare System\bin\Debug\net8.0\DnsClient.dll
+C:\Hackathon\BayerHealthCare System\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Hackathon\BayerHealthCare System\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Hackathon\BayerHealthCare System\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Hackathon\BayerHealthCare System\bin\Debug\net8.0\SharpCompress.dll
+C:\Hackathon\BayerHealthCare System\bin\Debug\net8.0\Snappier.dll
+C:\Hackathon\BayerHealthCare System\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Hackathon\BayerHealthCare System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Hackathon\BayerHealthCare System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Hackathon\BayerHealthCare System\bin\Debug\net8.0\ZstdSharp.dll
+C:\Hackathon\BayerHealthCare System\obj\Debug\net8.0\BayerHealthCare System.csproj.AssemblyReference.cache
+C:\Hackathon\BayerHealthCare System\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Hackathon\BayerHealthCare System\obj\Debug\net8.0\BayerHealthCare System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hackathon\BayerHealthCare System\obj\Debug\net8.0\BayerHealthCare System.AssemblyInfoInputs.cache
+C:\Hackathon\BayerHealthCare System\obj\Debug\net8.0\BayerHealthCare System.AssemblyInfo.cs
+C:\Hackathon\BayerHealthCare System\obj\Debug\net8.0\BayerHealthCare System.csproj.CoreCompileInputs.cache
+C:\Hackathon\BayerHealthCare System\obj\Debug\net8.0\BayerHealthCare System.MvcApplicationPartsAssemblyInfo.cs
+C:\Hackathon\BayerHealthCare System\obj\Debug\net8.0\BayerHealthCare System.MvcApplicationPartsAssemblyInfo.cache
+C:\Hackathon\BayerHealthCare System\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Hackathon\BayerHealthCare System\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Hackathon\BayerHealthCare System\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Hackathon\BayerHealthCare System\obj\Debug\net8.0\scopedcss\bundle\BayerHealthCare System.styles.css
+C:\Hackathon\BayerHealthCare System\obj\Debug\net8.0\staticwebassets.build.json
+C:\Hackathon\BayerHealthCare System\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Hackathon\BayerHealthCare System\obj\Debug\net8.0\staticwebassets.development.json
+C:\Hackathon\BayerHealthCare System\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Hackathon\BayerHealthCare System\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Hackathon\BayerHealthCare System\obj\Debug\net8.0\BayerHea.2EEC776A.Up2Date
+C:\Hackathon\BayerHealthCare System\obj\Debug\net8.0\BayerHealthCare System.dll
+C:\Hackathon\BayerHealthCare System\obj\Debug\net8.0\refint\BayerHealthCare System.dll
+C:\Hackathon\BayerHealthCare System\obj\Debug\net8.0\BayerHealthCare System.pdb
+C:\Hackathon\BayerHealthCare System\obj\Debug\net8.0\BayerHealthCare System.genruntimeconfig.cache
+C:\Hackathon\BayerHealthCare System\obj\Debug\net8.0\ref\BayerHealthCare System.dll

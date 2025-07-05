@@ -1,0 +1,20 @@
+[
+  {
+    "ContainingType": "BayerHealthCare_System.Controllers.BayerHealthCareController",
+    "Method": "GetCombined",
+    "RelativePath": "appointment",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "BayerHealthCare_System.MessageContracts.appointment",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
